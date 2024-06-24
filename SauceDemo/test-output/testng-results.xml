@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-20T22:02:47 IST" name="Default suite" finished-at="2024-06-20T22:04:17 IST" duration-ms="89262">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T22:02:47 IST" name="Default test" finished-at="2024-06-20T22:04:17 IST" duration-ms="89262">
+      <class name="com.SauceTests.LoginSanityTest">
+        <test-method is-config="true" signature="SauceDemo()[pri:0, instance:com.SauceTests.LoginSanityTest@3a93b025]" started-at="2024-06-20T22:02:56 IST" name="SauceDemo" finished-at="2024-06-20T22:02:59 IST" duration-ms="3347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SauceDemo -->
+        <test-method signature="addData()[pri:1, instance:com.SauceTests.LoginSanityTest@3a93b025]" started-at="2024-06-20T22:03:02 IST" name="addData" finished-at="2024-06-20T22:03:33 IST" duration-ms="31339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addData -->
+        <test-method signature="problemuser()[pri:2, instance:com.SauceTests.LoginSanityTest@3a93b025]" started-at="2024-06-20T22:03:33 IST" name="problemuser" finished-at="2024-06-20T22:03:34 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- problemuser -->
+        <test-method is-config="true" signature="CloseDriver()[pri:0, instance:com.SauceTests.LoginSanityTest@3a93b025]" started-at="2024-06-20T22:04:10 IST" name="CloseDriver" finished-at="2024-06-20T22:04:14 IST" duration-ms="3132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.SauceTests.LoginSanityTest -->
+      <class name="com.SauceTests.UserAccTest">
+        <test-method is-config="true" signature="SauceDemo()[pri:0, instance:com.SauceTests.UserAccTest@36902638]" started-at="2024-06-20T22:02:59 IST" name="SauceDemo" finished-at="2024-06-20T22:03:02 IST" duration-ms="2918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SauceDemo -->
+        <test-method signature="visualuser()[pri:1, instance:com.SauceTests.UserAccTest@36902638]" started-at="2024-06-20T22:03:34 IST" name="visualuser" finished-at="2024-06-20T22:03:35 IST" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visualuser -->
+        <test-method signature="standardUser()[pri:2, instance:com.SauceTests.UserAccTest@36902638]" started-at="2024-06-20T22:03:35 IST" name="standardUser" finished-at="2024-06-20T22:03:39 IST" duration-ms="3350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- standardUser -->
+        <test-method signature="problemuser()[pri:3, instance:com.SauceTests.UserAccTest@36902638]" started-at="2024-06-20T22:03:39 IST" name="problemuser" finished-at="2024-06-20T22:03:40 IST" duration-ms="1344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- problemuser -->
+        <test-method is-config="true" signature="CloseDriver()[pri:0, instance:com.SauceTests.UserAccTest@36902638]" started-at="2024-06-20T22:04:14 IST" name="CloseDriver" finished-at="2024-06-20T22:04:17 IST" duration-ms="3140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.SauceTests.UserAccTest -->
+      <class name="com.SauceTests.BuyProductsTest">
+        <test-method is-config="true" signature="BuyProducts()[pri:0, instance:com.SauceTests.BuyProductsTest@223d2c72]" started-at="2024-06-20T22:02:47 IST" name="BuyProducts" finished-at="2024-06-20T22:02:51 IST" duration-ms="3090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyProducts -->
+        <test-method signature="buyProductsKart()[pri:1, instance:com.SauceTests.BuyProductsTest@223d2c72]" started-at="2024-06-20T22:03:40 IST" name="buyProductsKart" finished-at="2024-06-20T22:03:44 IST" duration-ms="4105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyProductsKart -->
+        <test-method is-config="true" signature="CloseDriver()[pri:0, instance:com.SauceTests.BuyProductsTest@223d2c72]" started-at="2024-06-20T22:04:01 IST" name="CloseDriver" finished-at="2024-06-20T22:04:04 IST" duration-ms="3123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.SauceTests.BuyProductsTest -->
+      <class name="com.SauceTests.CheckOutTest">
+        <test-method is-config="true" signature="SauceDemo()[pri:0, instance:com.SauceTests.CheckOutTest@436813f3]" started-at="2024-06-20T22:02:51 IST" name="SauceDemo" finished-at="2024-06-20T22:02:53 IST" duration-ms="2663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SauceDemo -->
+        <test-method signature="firstname()[pri:1, instance:com.SauceTests.CheckOutTest@436813f3]" started-at="2024-06-20T22:03:45 IST" name="firstname" finished-at="2024-06-20T22:03:49 IST" duration-ms="4010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstname -->
+        <test-method signature="lastname()[pri:2, instance:com.SauceTests.CheckOutTest@436813f3]" started-at="2024-06-20T22:03:49 IST" name="lastname" finished-at="2024-06-20T22:03:55 IST" duration-ms="5739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastname -->
+        <test-method signature="pincode()[pri:3, instance:com.SauceTests.CheckOutTest@436813f3]" started-at="2024-06-20T22:03:55 IST" name="pincode" finished-at="2024-06-20T22:04:01 IST" duration-ms="5846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pincode -->
+        <test-method is-config="true" signature="CloseDriver()[pri:0, instance:com.SauceTests.CheckOutTest@436813f3]" started-at="2024-06-20T22:04:04 IST" name="CloseDriver" finished-at="2024-06-20T22:04:07 IST" duration-ms="3204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.SauceTests.CheckOutTest -->
+      <class name="com.SauceTests.FilterTest">
+        <test-method is-config="true" signature="BuyProductsTest()[pri:0, instance:com.SauceTests.FilterTest@8f4ea7c]" started-at="2024-06-20T22:02:53 IST" name="BuyProductsTest" finished-at="2024-06-20T22:02:56 IST" duration-ms="2614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyProductsTest -->
+        <test-method signature="ZtoAfilter()[pri:1, instance:com.SauceTests.FilterTest@8f4ea7c]" started-at="2024-06-20T22:03:44 IST" name="ZtoAfilter" finished-at="2024-06-20T22:03:45 IST" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZtoAfilter -->
+        <test-method is-config="true" signature="CloseDriver()[pri:0, instance:com.SauceTests.FilterTest@8f4ea7c]" started-at="2024-06-20T22:04:07 IST" name="CloseDriver" finished-at="2024-06-20T22:04:10 IST" duration-ms="3168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.SauceTests.FilterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
